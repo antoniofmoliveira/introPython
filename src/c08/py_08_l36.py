@@ -1,0 +1,7 @@
+"""
+Listagem 8.36 – Gerando números aleatórios
+"""
+import random
+
+for x in range(10):
+    print(random.randint(1, 100))

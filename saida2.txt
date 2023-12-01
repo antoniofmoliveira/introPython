@@ -1,0 +1,829 @@
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+
+página: 1 - saida2.txt
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+
+página: 2 - saida2.txt
+
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+página: 3 - saida2.txt
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+
+página: 4 - saida2.txt
+
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+
+página: 5 - saida2.txt
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+
+página: 6 - saida2.txt
+
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+página: 7 - saida2.txt
+
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+
+página: 8 - saida2.txt
+
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+
+página: 9 - saida2.txt
+
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+página: 10 - saida2.txt
+
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+
+página: 11 - saida2.txt
+
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+
+página: 12 - saida2.txt
+
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+
+página: 13 - saida2.txt
+
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+página: 14 - saida2.txt
+
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+MIT License
+
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindres
+rhus.com)
+
+Permission is hereby granted, free of charge, to any person obtaining
+
+página: 15 - saida2.txt
+
+a copy of this software and associated documentation files (the "Soft
+are"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribut
+, sublicense, and/or sell copies of the Software, and to permit perso
+s to whom the Software is furnished to do so, subject to the followin
+conditions:
+
+The above copyright notice and this permission notice shall be includ
+d in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRE
+S OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT
+BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO E
+ENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, D
+MAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR O
+HERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR T
+E USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+página: 16 - saida2.txt

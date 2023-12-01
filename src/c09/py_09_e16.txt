@@ -1,0 +1,7 @@
+"""
+Exercício 9.16 Explique como os campos nome e telefone são armazenados no
+arquivo de saída.
+"""
+ANTONIO 111#111
+MARIA#222
+IGOR#888

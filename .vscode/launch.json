@@ -1,0 +1,133 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Current File",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "Python: py_09_e01",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_e01.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["números.txt"]
+    },
+    {
+      "name": "Python: py_09_e02",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_e02.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["números.txt", "10", "20"]
+    },
+    {
+      "name": "Python: py_09_e04",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_e04.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["pares.txt", "ímpares.txt", "juntos.txt"]
+    },
+    {
+      "name": "Python: py_09_e08",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_e08.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["entrada2.txt", "saida2.txt", "50", "70"]
+    },
+    {
+      "name": "Python: py_09_e09",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_e09.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["pares.txt", "paresinv.txt", "ímpares.txt"]
+    },
+    {
+      "name": "Python: py_09_e10",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_e10.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["SAIDA.TXT", "pares.txt", "paresinv.txt", "ímpares.txt"]
+    },
+    {
+      "name": "Python: py_09_e13",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_e13.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["entrada2.txt", "10", "20"]
+    },
+    {
+      "name": "Python: py_09_e32",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_e32.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["números.txt"]
+    },
+    {
+      "name": "Python: py_09_e33",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_e33.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["src/c09"]
+    },
+    {
+      "name": "Python: py_09_l21",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_l21.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["AGENDA.TXT"]
+    },
+    {
+      "name": "Python: py_09_l26",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_l26.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["./src"]
+    },
+    {
+      "name": "Python: py_09_e35",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_e35.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["./src"]
+    },
+    {
+      "name": "Python: py_09_e36",
+      "type": "python",
+      "request": "launch",
+      "program": "src/c09/py_09_e36.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["./src"]
+    }
+  ]
+}
